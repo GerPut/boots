@@ -1,0 +1,1 @@
+This is new project. An advert page for boots.
