@@ -1,1 +1,3 @@
-This is new project. An advert page for boots.
+## Boots Sale Page Project
+
+This is an advert page for boots. My focus was to learn more about animations. External libraries were used to create the animations. The page opens with an overlay of five elements moving left with the content (elements) of the page appearing afterwards. The images of the boots produces an distortion effect when hovering over them. The project was built with HTML, CSS and JS GSAP animations.
